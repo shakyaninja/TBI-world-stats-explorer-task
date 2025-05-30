@@ -500,7 +500,7 @@ export default function WorldCustomChart() {
     
     const options = {
       sizeAxis: { minValue: 0, maxValue: 2 },
-      colorAxis: { colors: ["#00853f", "black", "#e31b23"] },
+      colorAxis: { colors: ["#00853f", "yellow", "#e31b23"] },
       backgroundColor: "#81d4fa",
       datalessRegionColor: "#f5f5f5",
       defaultColor: "#f5f5f5",
