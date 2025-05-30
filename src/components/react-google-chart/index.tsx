@@ -1,5 +1,4 @@
-import { ZoomControl } from "@amcharts/amcharts5/map";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Chart } from "react-google-charts";
 
 type WorldStatDataType = {
